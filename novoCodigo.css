@@ -1,0 +1,8 @@
+body {
+    --bege: #d8ccb7;
+    --verde-escuro: rgb(9, 131, 0); /*cria variavel com o nome da cor*/
+    --verde-claro:  #7ec672;
+    font-family: 'Barlow', sans-serif;
+    height: 100px;
+    padding-top: 9rem;
+  }
